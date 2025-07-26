@@ -51,6 +51,15 @@ Moodsync/
 https://www.loom.com/share/56669cf507424b70b43b6b51d520972f?sid=eadfc514-3a7f-465f-aed7-435a805844f4
 
 ---
+## 🖼️ MoodSync Previews
+
+### 🧑‍💻 Code Overview
+![Code Screenshot](./assets/demo.png)
+
+### 🏠 MoodSync Homepage
+![Homepage Screenshot](./assets/demo1.png)
+
+---
 
 ### 🛠️ Built With
 
