@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Moodsync 🎭</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1 class="logo">Moodsync🎭</h1>
+      <p class="subtitle">Let your vibes shape your view!</p>
+      <div class="mood-buttons">
+        <button onclick="setMood('happy')">😄 Happy</button>
+        <button onclick="setMood('sad')">😔 Sad</button>
+        <button onclick="setMood('calm')">😌 Calm</button>
+        <button onclick="setMood('focused')">🎯 Focused</button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="content">
+      <h2 id="mood-title" class="fade show">Welcome to Moodsync</h2>
+      <p id="mood-quote" class="fade show">Select a mood to personalize your experience.</p>
+      <div class="visuals">
+        <img id="mood-image" src="assets/default.jpg" alt="Mood Image" class="fade show" />
+      </div>
+      <div class="audio-player">
+        <audio id="mood-audio" controls autoplay loop>
+          <source id="audio-source" src="" type="audio/mp3">
+          Your browser does not support the audio element.
+        </audio>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Moodsync. Built with 💖 to match your vibes.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
