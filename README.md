@@ -54,10 +54,10 @@ https://www.loom.com/share/56669cf507424b70b43b6b51d520972f?sid=eadfc514-3a7f-46
 ## 🖼️ MoodSync Previews
 
 ### 🧑‍💻 Code Overview
-![Code Screenshot](./assets/demo.png)
+![Code Screenshot](./Moodsync/assets/demo.png)
 
 ### 🏠 MoodSync Homepage
-![Homepage Screenshot](./assets/demo1.png)
+![Homepage Screenshot](./Moodsync/assets/demo1.png)
 
 ---
 
