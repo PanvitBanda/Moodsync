@@ -92,8 +92,8 @@ Here are some great enhancements that can take MoodSync to the next level:
 
 **Panvit Banda**
 🎓 B.Tech Final Year Student | Web & AI Enthusiast
-📬 [LinkedIn](https://www.linkedin.com/in/your-profile/)
-💻 [GitHub](https://github.com/your-username)
+📬 [LinkedIn](https://www.linkedin.com/in/panvit-banda/)
+💻 [GitHub](https://github.com/PanvitBanda)
 
 ---
 
